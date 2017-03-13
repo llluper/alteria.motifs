@@ -76,15 +76,12 @@ a:hover {
 
 @-webkit-keyframes alt_m {
     0% {
-        color: #007fd5;
         opacity: 0;
     }
     50% {
-        color: #000;
         opacity: 1.0;
     }
     100% {
-        color: #007fd5;
         opacity: 0;
     }
 }
